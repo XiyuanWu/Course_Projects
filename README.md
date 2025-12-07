@@ -23,3 +23,14 @@ Covers basic concepts of databases and database management systems. Topics inclu
 
 An introduction to the field of artificial intelligence. Focuses on discrete-valued problems. Covers heuristic search, problem representation, and classical planning. Also covers constraint satisfaction and logical inference.
 
+## CS 180 - Introduction to Software Engineering
+
+A study of software engineering techniques for the development, maintenance, and evolution of large software systems. Topics include requirements and specification; system design and implementation; debugging, testing, and quality assurance; reengineering; project management; software process; tools; and environments.
+
+Project Done: [CardSense](https://github.com/XiyuanWu/CardSense).
+
+## CS 179M - Project in Computer Science: Artificial Intelligence
+
+Covers the planning, design, implementation, testing, and documentation of an artificial intelligence-related system. Incorporates techniques presented in previous related courses. Emphasizes professional and ethical responsibilities; the need to stay current on technology; and its global impact on economics, society, and the environment.
+
+Project Done: [AI Projects](https://github.com/XiyuanWu/AI_Project).
