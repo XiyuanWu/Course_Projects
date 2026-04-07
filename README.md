@@ -15,6 +15,10 @@ Emphasizes development of software systems. Topics include design and implementa
 
 Project Done: [Movie Recommendation System](https://github.com/XiyuanWu/Movie_Recommendation_System.git).
 
+## CS 108 - Data Science Ethics
+
+Covers ethics specifically related to data science. Topics include data privacy; data curation and storage; discrimination and bias arising in the machine learning process; statistical topics such as generalization, causality, curse of dimensionality, and sampling bias; data communication; and strategies for conceptualizing, measuring, and mitigating problems in data-driven decision-making.
+
 ## CS 166 - Database Management Systems
 
 Covers basic concepts of databases and database management systems. Topics include entity-relationship modeling for design, relational data model, relational algebra, Structured Query Language (SQL), secondary storage, indexing and hashing, query evaluation and optimization, and overview of transactions.
