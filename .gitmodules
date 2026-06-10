@@ -7,3 +7,9 @@
 [submodule "AI_Project"]
 	path = AI_Project
 	url = https://github.com/XiyuanWu/AI_Project.git
+[submodule "Web_Crawler"]
+	path = Web_Crawler
+	url = https://github.com/XiyuanWu/Web_Crawler.git
+[submodule "EventConnect"]
+	path = EventConnect
+	url = https://github.com/XiyuanWu/EventConnect.git

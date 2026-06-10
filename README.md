@@ -19,6 +19,12 @@ Project Done: [Movie Recommendation System](https://github.com/XiyuanWu/Movie_Re
 
 Covers ethics specifically related to data science. Topics include data privacy; data curation and storage; discrimination and bias arising in the machine learning process; statistical topics such as generalization, causality, curse of dimensionality, and sampling bias; data communication; and strategies for conceptualizing, measuring, and mitigating problems in data-driven decision-making.
 
+## CS110 - Principles of Web Development   
+
+Provides an introduction to distributed systems, with a focus on web development techniques and the considerations to application scalability, security, reliability, and redundancy. Provides an in-depth study of technologies used for both back-end and front-end development, and how to design robust applications in the webs constantly evolving landscape.
+
+Project Done: [EventConnect](https://github.com/XiyuanWu/EventConnect)
+
 ## CS 166 - Database Management Systems
 
 Covers basic concepts of databases and database management systems. Topics include entity-relationship modeling for design, relational data model, relational algebra, Structured Query Language (SQL), secondary storage, indexing and hashing, query evaluation and optimization, and overview of transactions.
@@ -26,6 +32,12 @@ Covers basic concepts of databases and database management systems. Topics inclu
 ## CS 170 - Introduction to Artificial Intelligence
 
 An introduction to the field of artificial intelligence. Focuses on discrete-valued problems. Covers heuristic search, problem representation, and classical planning. Also covers constraint satisfaction and logical inference.
+
+## CS172 - 	Introduction to Information Retrieval
+
+Introduces information retrieval (IR) principles and techniques for indexing and searching document collections. Topics include Web search, text processing, ranking algorithms, search in social networks, and search evaluation. Also studies scalability issues in search engines.
+
+Project Done: [Web Crawler + Search Engine](https://github.com/XiyuanWu/Web_Crawler)
 
 ## CS 180 - Introduction to Software Engineering
 
@@ -38,3 +50,7 @@ Project Done: [CardSense](https://github.com/XiyuanWu/CardSense).
 Covers the planning, design, implementation, testing, and documentation of an artificial intelligence-related system. Incorporates techniques presented in previous related courses. Emphasizes professional and ethical responsibilities; the need to stay current on technology; and its global impact on economics, society, and the environment.
 
 Project Done: [AI Projects](https://github.com/XiyuanWu/AI_Project).
+
+## The end
+
+End of the list - graduated at June 2026.
