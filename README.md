@@ -39,18 +39,18 @@ Introduces information retrieval (IR) principles and techniques for indexing and
 
 Project Done: [Web Crawler + Search Engine](https://github.com/XiyuanWu/Web_Crawler)
 
-## CS 180 - Introduction to Software Engineering
-
-A study of software engineering techniques for the development, maintenance, and evolution of large software systems. Topics include requirements and specification; system design and implementation; debugging, testing, and quality assurance; reengineering; project management; software process; tools; and environments.
-
-Project Done: [CardSense](https://github.com/XiyuanWu/CardSense).
-
 ## CS 179M - Project in Computer Science: Artificial Intelligence
 
 Covers the planning, design, implementation, testing, and documentation of an artificial intelligence-related system. Incorporates techniques presented in previous related courses. Emphasizes professional and ethical responsibilities; the need to stay current on technology; and its global impact on economics, society, and the environment.
 
 Project Done: [AI Projects](https://github.com/XiyuanWu/AI_Project).
 
-## The end
+## CS 180 - Introduction to Software Engineering
+
+A study of software engineering techniques for the development, maintenance, and evolution of large software systems. Topics include requirements and specification; system design and implementation; debugging, testing, and quality assurance; reengineering; project management; software process; tools; and environments.
+
+Project Done: [CardSense](https://github.com/XiyuanWu/CardSense).
+
+## The End
 
 End of the list - graduated at June 2026.
