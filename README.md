@@ -13,7 +13,7 @@ An introduction to computer organization. Topics include number representation, 
 
 Emphasizes development of software systems. Topics include design and implementation strategies and selection and mastery of programming languages, environment tools, and development processes. Develops skill in programming, testing, debugging, performance evaluation, component integration, maintenance, and documentation. Covers professional and ethical responsibilities and the need to stay current with technology.
 
-Project Done: [Movie Recommendation System](https://github.com/XiyuanWu/Movie_Recommendation_System.git).
+Project Done: [Movie Recommendation System](https://github.com/XiyuanWu/Movie_Recommendation_System.git)
 
 ## CS 108 - Data Science Ethics
 
@@ -43,13 +43,13 @@ Project Done: [Web Crawler + Search Engine](https://github.com/XiyuanWu/Web_Craw
 
 Covers the planning, design, implementation, testing, and documentation of an artificial intelligence-related system. Incorporates techniques presented in previous related courses. Emphasizes professional and ethical responsibilities; the need to stay current on technology; and its global impact on economics, society, and the environment.
 
-Project Done: [AI Projects](https://github.com/XiyuanWu/AI_Project).
+Project Done: [AI Projects](https://github.com/XiyuanWu/AI_Project)
 
 ## CS 180 - Introduction to Software Engineering
 
 A study of software engineering techniques for the development, maintenance, and evolution of large software systems. Topics include requirements and specification; system design and implementation; debugging, testing, and quality assurance; reengineering; project management; software process; tools; and environments.
 
-Project Done: [CardSense](https://github.com/XiyuanWu/CardSense).
+Project Done: [CardSense](https://github.com/XiyuanWu/CardSense)
 
 ## The End
 
