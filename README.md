@@ -49,7 +49,7 @@ Project Done: [AI Projects](https://github.com/XiyuanWu/AI_Project)
 
 A study of software engineering techniques for the development, maintenance, and evolution of large software systems. Topics include requirements and specification; system design and implementation; debugging, testing, and quality assurance; reengineering; project management; software process; tools; and environments.
 
-Project Done: [CardSense](https://github.com/XiyuanWu/CardSense)
+Project Done: [CardSense](https://github.com/XiyuanWu/CardSense_Web)
 
 ## The End
 

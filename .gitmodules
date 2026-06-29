@@ -1,9 +1,6 @@
 [submodule "Movie_Recommendation_System"]
 	path = Movie_Recommendation_System
 	url = https://github.com/XiyuanWu/Movie_Recommendation_System.git
-[submodule "CardSense"]
-	path = CardSense
-	url = https://github.com/XiyuanWu/CardSense.git
 [submodule "AI_Project"]
 	path = AI_Project
 	url = https://github.com/XiyuanWu/AI_Project.git
@@ -13,3 +10,6 @@
 [submodule "EventConnect"]
 	path = EventConnect
 	url = https://github.com/XiyuanWu/EventConnect.git
+[submodule "CardSense_Web"]
+	path = CardSense_Web
+	url = https://github.com/XiyuanWu/CardSense_Web.git
